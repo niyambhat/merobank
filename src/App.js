@@ -8,7 +8,7 @@ import MiniHeader from './components/MiniHeader';
 import ProductList from './components/ProductList';
 import Registeration from './components/Forms/Registeration';
 import PortfolioList from './components/Portfolio/PortfolioList';
-// import Contact from '../src/components/Forms/Contact';
+import Contact from './components/Contact';
 import Toggle from './components/Toggle';
 import { useState } from 'react'
 import { useContext } from 'react';
@@ -32,7 +32,7 @@ const App = () => {
   <ProductList/>
   <Registeration/>
   <PortfolioList />
-  {/* <Contact/> */}
+  <Contact/>
   </div>
   )
 }
