@@ -1,0 +1,9 @@
+.toggler img{
+    height: 28px !important;
+    width: auto;
+    padding-right: 10px;
+}
+
+.toggler{
+    text-align: right;
+}
