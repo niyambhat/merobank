@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Forms/contact.css'
+import './Contact.css'
 import { useRef } from "react"  //Hook to capture form elements
 import emailjs from 'emailjs-com';
 import { useState } from 'react'
