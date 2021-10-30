@@ -1,0 +1,23 @@
+ul{
+  list-style: none;
+}
+
+h1{
+  font-size:42px;
+}
+
+h1, h2, h3{
+  color:#1f1c4f;
+  text-transform: uppercase;
+}
+
+.btn.btn-primary {
+  color: #fff;
+  border-color: #da1710;
+  background-color: #da1710;
+  transition: background .2s ease,color .2s ease;
+}
+
+img{
+  width:100%;
+}

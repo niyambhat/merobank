@@ -1,0 +1,27 @@
+.portfolio {
+    padding:0;  
+    width: 48% !important;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.portfolio ul{
+    padding: 4px 7px;
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.p-nav{
+    background: #e8e8e8;
+    color: white;
+}
+
+.portfolio img:hover{
+    transform: translateY(-70%);
+}
+
+.portfolio img{
+    transition: 3s;
+}

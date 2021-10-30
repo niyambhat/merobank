@@ -1,0 +1,34 @@
+.i{
+    display:flex;
+    height:50vh;
+    background-color: #da1710;
+   
+}
+
+.i h1, .i h2{
+    color:white !important;
+}
+
+.i h1{
+    padding-bottom: 15px;
+}
+.i p{
+    font-size: 21px;
+}
+
+.i-left{
+   width:50%;
+   padding: 153px 0px 0 37px;
+}
+
+.i-right{
+    width:50%;
+    background: white;
+    overflow:hidden;
+}
+
+.i-img{
+    height:100%;
+    width:auto;
+}
+

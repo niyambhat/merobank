@@ -1,0 +1,21 @@
+.main-nav{
+list-style:none;
+display:flex;
+justify-content: end;
+padding: 7px 0;
+}
+
+.main-nav li{
+    font-weight: 400;
+    margin-right:12px !important;
+}
+.main-nav a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.main-nav a:hover{
+    text-decoration: underline;
+}
+.navigation{
+    background :#da1710;
+}

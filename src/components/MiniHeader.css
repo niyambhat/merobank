@@ -1,0 +1,43 @@
+.second-nav{
+    display: flex;
+}
+.btn-primary{
+    color: #fff;
+    border-color: #da1710;
+    background-color: #da1710;
+    transition: background .2s ease,color .2s;
+    padding: 5px 12px;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 400;
+    white-space: nowrap;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.secondary-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo{
+    width:15%;
+    text-align: center;
+}
+.logo img{
+    width: 50px;
+}
+.second-nav{
+    width:60%;
+  } 
+
+.second-nav li{
+ margin-right:12px !important;
+}
+.Sign-in{
+    width:15%;
+    text-align: center;
+} 
